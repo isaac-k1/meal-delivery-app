@@ -16,3 +16,11 @@
 - cmd + m android : element inspector
 - cmd + control + z ios : inspector
 - performance monitor debug tools
+
+## 7:95
+
+- adding eslint, prettier
+
+## 7:97
+
+- adding react native paper, safe area context
