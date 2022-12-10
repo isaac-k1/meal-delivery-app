@@ -24,3 +24,8 @@
 ## 7:97
 
 - adding react native paper, safe area context
+
+## 7:109
+
+- styled components use css to react native in the background
+- converts css text to react native stylesheet objects
