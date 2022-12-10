@@ -29,3 +29,8 @@
 
 - styled components use css to react native in the background
 - converts css text to react native stylesheet objects
+
+## 7:111
+
+- theme provider acts like a global state
+- react context is a way to pass data through components, w/o having to pass props down manually at every level
