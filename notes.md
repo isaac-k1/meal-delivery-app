@@ -34,3 +34,7 @@
 
 - theme provider acts like a global state
 - react context is a way to pass data through components, w/o having to pass props down manually at every level
+
+## 7:120
+
+- implementing spacers within the restaurant info card to give space between the icons
