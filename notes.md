@@ -56,3 +56,9 @@
 ## 7:140
 
 - our phone has an application, have to leverage context, service layer consisting of context and service, context serves to share the data globally within the application, service itself stems to determine what methods we want in order to get data from the external service, act between context and the external api
+
+## 7:143
+
+- promise is like a binding contract, promising that you're getting something back in the future, function internally - resolve and reject, if we hit resolve, we'll return local promise result
+- function in the .then returns us the result that we were promissed to get back
+- fetch is an interface around promises that wraps the ability to talk to exernal apis, have to parse json, then another .then where we get our actual response then console log the response
