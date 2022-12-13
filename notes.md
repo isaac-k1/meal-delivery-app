@@ -52,3 +52,7 @@
 ## 7:140
 
 - cloud <---> services layer <---> application
+
+## 7:140
+
+- our phone has an application, have to leverage context, service layer consisting of context and service, context serves to share the data globally within the application, service itself stems to determine what methods we want in order to get data from the external service, act between context and the external api
