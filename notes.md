@@ -42,3 +42,9 @@
 ## 7:125
 
 - consistency: want to create componenets that last the test of time, hence why we created the spacer, the spacers component has a an actual purpose to add margin, size, want to create components that can be used across the code base
+
+## 7:130
+
+- `contentContainerStyle` is not applied to each item individually rather it is applied to the holistic content inside the container
+
+- that is why we need to wrap the `Spacer` component around the rendered item.
