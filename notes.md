@@ -48,3 +48,7 @@
 - `contentContainerStyle` is not applied to each item individually rather it is applied to the holistic content inside the container
 
 - that is why we need to wrap the `Spacer` component around the rendered item.
+
+## 7:140
+
+- cloud <---> services layer <---> application
